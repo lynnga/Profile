@@ -1,0 +1,8 @@
+nav{
+    writing-mode: vertical-lr;
+    border: solid black 1px;
+    display: inline-block;
+    height: 350px;
+    width: 300px;
+    margin: 5px;
+  }
